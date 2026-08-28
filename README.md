@@ -16,9 +16,6 @@ A collection of small, self-contained Spring Boot projects, each solving a data-
 
 | Project | beecrowd Problem | Domain | What it queries |
 |---|---|---|---|
-| [`uri2602`](uri2602) | [2602](https://judge.beecrowd.com/en/problems/view/2602) | Customers | Customers whose name contains a given substring |
-| [`uri2609`](uri2609) | [2609](https://judge.beecrowd.com/en/problems/view/2609) | Products / Categories | Total product amount grouped by category |
-| [`uri2611`](uri2611) | [2611](https://judge.beecrowd.com/en/problems/view/2611) | Movies / Genres | Movies belonging to a given genre |
 | [`uri2621`](uri2621) | [2621](https://judge.beecrowd.com/en/problems/view/2621) | Products / Providers | Products within a price range whose provider's name starts with a given prefix |
 | [`uri2737`](uri2737) | [2737](https://judge.beecrowd.com/en/problems/view/2737) | Lawyers | Lawyer(s) with the max/min number of customers, plus the average |
 | [`uri2990`](uri2990) | [2990](https://judge.beecrowd.com/en/problems/view/2990) | Employees / Departments / Projects | Employees not assigned to any project (`NOT IN` vs. `LEFT JOIN` variants) |
